@@ -1,0 +1,3 @@
+* 다음 경로의 데이터를 수집하여 movies_ranks테이블에 입력하시오.
+http://ticket2.movie.daum.net/Movie/MovieRankList.aspx
+movies_ranks.sql을 참고바랍니다.
